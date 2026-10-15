@@ -49,7 +49,7 @@ It is still a pre-release and is intended for experimentation and testing on rea
 
 - First public release
 - Client UI still being translated and currently set to pt-BR
-- Minimum tested platform: macOS 13
+- Minimum tested platform: macOS 13 (Ventura)
 - Recommended testing platform: macOS 27 (Golden Gate)
 - Audio is still not fully working/activating
 - Only ARM64 build is currently available
